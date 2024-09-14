@@ -50,7 +50,7 @@ npm install
 npm start
 ```
 
-5. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the app.
+5. Open your web browser and visit (https://newsapp-api-ac21c.web.app/) to access the app.
 
 
 ## Acknowledgements
